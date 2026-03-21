@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventaSaas.API", "InventaSaas\InventaSaas.API.csproj", "{234126C4-37F5-4FA1-976A-99ADF3EBA060}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380} = {A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventaSaas.Domain", "InventaSaas.Domain\InventaSaas.Domain.csproj", "{CA0FB667-DE30-4A96-A5C7-42131BD472C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventaSaas.Application", "InventaSaas.Application\InventaSaas.Application.csproj", "{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0} = {CA0FB667-DE30-4A96-A5C7-42131BD472C0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventaSaas.Infrastructure", "InventaSaas.Infrastructure\InventaSaas.Infrastructure.csproj", "{85D1DCC1-8667-44C2-A21A-740C313C0D7D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0} = {CA0FB667-DE30-4A96-A5C7-42131BD472C0}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234126C4-37F5-4FA1-976A-99ADF3EBA060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{234126C4-37F5-4FA1-976A-99ADF3EBA060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{234126C4-37F5-4FA1-976A-99ADF3EBA060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{234126C4-37F5-4FA1-976A-99ADF3EBA060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0FB667-DE30-4A96-A5C7-42131BD472C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D1DCC1-8667-44C2-A21A-740C313C0D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D1DCC1-8667-44C2-A21A-740C313C0D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D1DCC1-8667-44C2-A21A-740C313C0D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D1DCC1-8667-44C2-A21A-740C313C0D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D6F5521-3BC4-4668-80C0-B9881E414B32}
+	EndGlobalSection
+EndGlobal

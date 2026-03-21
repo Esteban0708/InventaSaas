@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\bin\Debug\net8.0\InventaSaas.Domain.deps.json
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\bin\Debug\net8.0\InventaSaas.Domain.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\bin\Debug\net8.0\InventaSaas.Domain.pdb
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\refint\InventaSaas.Domain.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.pdb
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\ref\InventaSaas.Domain.dll

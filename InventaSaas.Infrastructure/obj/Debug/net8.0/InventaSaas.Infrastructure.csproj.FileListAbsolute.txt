@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Infrastructure.deps.json
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Infrastructure.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Infrastructure.pdb
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Domain.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Domain.pdb
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaS.30037A5E.Up2Date
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\refint\InventaSaas.Infrastructure.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.pdb
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\ref\InventaSaas.Infrastructure.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Infrastructure.runtimeconfig.json
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.genruntimeconfig.cache
