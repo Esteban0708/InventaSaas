@@ -13,7 +13,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular", policy =>
-        policy.WithOrigins("https://inventasaas.netlify.app/")
+        policy.WithOrigins("https://inventasaas.netlify.app")
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
