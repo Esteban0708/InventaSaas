@@ -1,3 +1,6 @@
+[variables]
+NIXPACKS_DOTNET_VERSION = "8"
+
 [phases.build]
 cmds = ["dotnet publish InventaSaas.API/InventaSaas.API.csproj -c Release -o out"]
 
