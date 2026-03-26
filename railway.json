@@ -1,0 +1,9 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "dotnet InventaSaas.API.dll",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
