@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventaSaas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49777935be7ffa6b6ab1c142a1790f4fe5d8b9b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb419f60b5b03fb2f6b1df495e4bd2d273a9535")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventaSaas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventaSaas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

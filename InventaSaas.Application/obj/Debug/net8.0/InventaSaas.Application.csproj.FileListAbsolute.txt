@@ -13,3 +13,4 @@ C:\Users\USER\source\repos\InventaSaas\InventaSaas.Application\obj\Debug\net8.0\
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Application\obj\Debug\net8.0\refint\InventaSaas.Application.dll
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Application\obj\Debug\net8.0\InventaSaas.Application.pdb
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Application\obj\Debug\net8.0\ref\InventaSaas.Application.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Application\obj\Debug\net8.0\InventaSaas.Application.sourcelink.json

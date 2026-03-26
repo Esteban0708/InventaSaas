@@ -15,3 +15,4 @@ C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\ref\InventaSaas.Infrastructure.dll
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\bin\Debug\net8.0\InventaSaas.Infrastructure.runtimeconfig.json
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.genruntimeconfig.cache
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Infrastructure\obj\Debug\net8.0\InventaSaas.Infrastructure.sourcelink.json

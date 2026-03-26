@@ -9,3 +9,4 @@ C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\Inven
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\refint\InventaSaas.Domain.dll
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.pdb
 C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\ref\InventaSaas.Domain.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas.Domain\obj\Debug\net8.0\InventaSaas.Domain.sourcelink.json
