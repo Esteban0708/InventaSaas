@@ -89,7 +89,6 @@ C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\staticwebass
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\InventaS.469EBDAD.Up2Date
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\InventaSaas.API.dll
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\refint\InventaSaas.API.dll
@@ -97,3 +96,5 @@ C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\InventaSaas.
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\InventaSaas.API.genruntimeconfig.cache
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\ref\InventaSaas.API.dll
 C:\Users\USER\source\repos\InventaSaas\InventaSaas\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\source\repos\InventaSaas\InventaSaas\bin\Debug\net8.0\web.config
+C:\Users\USER\source\repos\InventaSaas\InventaSaas\obj\Debug\net8.0\InventaSaas.API.sourcelink.json
