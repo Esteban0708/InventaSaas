@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\InventaSaas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas.API\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\USER\\source\\repos\\InventaSaas\\nixpacks.toml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:nixpacks.toml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -15,24 +27,20 @@
       "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:Procfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|c:\\users\\user\\source\\repos\\inventasaas\\inventasaas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|solutionrelative:inventasaas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|c:\\users\\user\\source\\repos\\inventasaas\\inventasaas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|solutionrelative:inventasaas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|c:\\users\\user\\source\\repos\\inventasaas\\inventasaas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|solutionrelative:inventasaas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|c:\\users\\user\\source\\repos\\inventasaas\\inventasaas\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{234126C4-37F5-4FA1-976A-99ADF3EBA060}|InventaSaas\\InventaSaas.API.csproj|solutionrelative:inventasaas\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}|InventaSaas.Application\\InventaSaas.Application.csproj|c:\\users\\user\\source\\repos\\inventasaas\\inventasaas.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3EF7C7E-19AC-4BB8-9431-47F1A13C2380}|InventaSaas.Application\\InventaSaas.Application.csproj|solutionrelative:inventasaas.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InventaSaas\\web.config||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +55,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.json",
+              "RelativeDocumentMoniker": "InventaSaas.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.json",
+              "RelativeToolTip": "InventaSaas.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T17:17:17.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InventaSaas.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.API\\appsettings.Development.json",
+              "RelativeToolTip": "InventaSaas.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-26T17:17:16.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "nixpacks.toml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\nixpacks.toml",
               "RelativeDocumentMoniker": "nixpacks.toml",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\InventaSaas\\nixpacks.toml",
               "RelativeToolTip": "nixpacks.toml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-26T15:46:43.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T15:46:43.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Procfile",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\Procfile",
               "RelativeDocumentMoniker": "Procfile",
@@ -67,12 +99,11 @@
               "RelativeToolTip": "Procfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-26T01:24:11.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T01:24:11.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "railway.json",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\railway.json",
               "RelativeDocumentMoniker": "railway.json",
@@ -80,12 +111,11 @@
               "RelativeToolTip": "railway.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-26T01:23:37.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T01:23:37.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "web.config",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\web.config",
               "RelativeDocumentMoniker": "InventaSaas\\web.config",
@@ -97,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\appsettings.json",
               "RelativeDocumentMoniker": "InventaSaas\\appsettings.json",
@@ -109,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "web.config",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\web.config",
               "RelativeDocumentMoniker": "InventaSaas\\web.config",
@@ -121,19 +151,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\Program.cs",
               "RelativeDocumentMoniker": "InventaSaas\\Program.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas\\Program.cs",
               "RelativeToolTip": "InventaSaas\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-21T06:07:39.963Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InventaSaas\\InventaSaas.Application\\DTOs\\Auth\\LoginDTO.cs",
               "RelativeDocumentMoniker": "InventaSaas.Application\\DTOs\\Auth\\LoginDTO.cs",
