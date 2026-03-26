@@ -7,13 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\InventaSaas.Application\InventaSaas.Application.csproj" />
-    <ProjectReference Include="..\InventaSaas.Domain\InventaSaas.Domain.csproj" />
-    <ProjectReference Include="..\InventaSaas.Infrastructure\InventaSaas.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
